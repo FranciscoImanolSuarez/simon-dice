@@ -1,11 +1,13 @@
 {
-  "name": "fundamentosdejavascript",
-  "version": "1.0.0",
-  "description": "Proyecto",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "fundamentosdejavascript",
+    "description": "Juego creado en el curso de Fundamentos de Javascript en Platzi dictado por Sacha Lifszyc",
+    "version": "1.0.0",
+    "description": "Proyecto",
+    "main": "index.js",
+    "keywords": ["javascript", "platzi", "simon-game", "game", "course"],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Francisco Imanol Suarez",
+    "license": "ISC"
 }
